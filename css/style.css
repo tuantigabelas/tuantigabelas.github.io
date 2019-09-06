@@ -1,0 +1,24 @@
+.slider h3,
+.slider h5,
+.Clients h3 {
+    text-shadow: 1px 1px(0, 0, 0,0.4);
+}
+
+.parallax-container {
+    height: 250px;
+}
+
+.parallax img {
+    filter: grayscale(1);
+
+}
+
+
+section,footer {
+    padding: 20px 0;
+}
+
+.footer{
+    height: 10%;
+}
+
